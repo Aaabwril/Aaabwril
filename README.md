@@ -1,16 +1,17 @@
 <!-- README.md -->
 
-# yo, i'm Abriel!👋  
+# Hey there 👋 I'm Abriel
 
-a self taught fullstack dev who builds random stuff with modern techstack  (I use arch btw ;-;)
+a **Fullstack Developer** who loves building modern web apps with clean UI and smart backend logic.  
+Currently working on **AI-integrated projects** — blending creativity with tech to make smarter, more intuitive products.
+
 
 ---
 
-### what i'm up to
-- working on: ai + web stuff  
-- learning: backend scaling and ai engineering  
-- tech stack: react, next.js, node.js, supabase, tailwind, typescript  
-- fun fact: my code only works after i threaten to rewrite it from scratch  
+### 🚀 What I'm Up To
+- 🧩 Currently building AI-driven web applications  
+- 🧠 Learning more about system design & scalable architecture  
+- 🕹️ Occasionally working on fun side projects  
 
 ---
 
@@ -52,3 +53,4 @@ a self taught fullstack dev who builds random stuff with modern techstack  (I us
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
+> “Code is where logic meets creativity.”

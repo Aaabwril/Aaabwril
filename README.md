@@ -2,7 +2,7 @@
 
 # Hey there 👋 I'm Abriel
 
-a **Fullstack Developer** who loves building modern web apps with clean UI and smart backend logic.  
+a **Sofware Developer** who loves building modern web apps with clean UI and smart backend logic.  
 Currently working on **AI-integrated projects** — blending creativity with tech to make smarter, more intuitive products.
 
 

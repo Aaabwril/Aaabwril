@@ -1,10 +1,10 @@
 <!-- README.md -->
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtrY3Z1NWQ2cjlxM3VmMXdsb2tmY3o5Z2QyNnNkb3U5ZGEyb2d0ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif" width="30%" alt="banner"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtrY3Z1NWQ2cjlxM3VmMXdsb2tmY3o5Z2QyNnNkb3U5ZGEyb2d0ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif" width="25%" alt="banner"/>
 
-# yo, i'm Abriel (I use arch btw ;-;)👋  
+# yo, i'm Abriel!👋  
 
- a self taught fullstack dev who builds random stuff with react, next.js, node, and a bit of ai here and there.  
+a self taught fullstack dev(I use arch btw ;-;) who builds random stuff with react, next.js, node, and a bit of ai here and there.  
 currently cooking ai-integrated projects.
 
 ---
@@ -17,7 +17,19 @@ currently cooking ai-integrated projects.
 
 ---
 
+### main tech stack
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Clerk](https://img.shields.io/badge/clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Convex](https://img.shields.io/badge/convex-111111?style=for-the-badge&logo=convex&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge&logo=radix-ui&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+
+---
+
 ### tools i use
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/node.js-3c873a?style=for-the-badge&logo=node.js)
@@ -33,7 +45,13 @@ currently cooking ai-integrated projects.
 ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=fff)
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Bun](https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=fff)
+![Clerk](https://img.shields.io/badge/clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Convex](https://img.shields.io/badge/convex-111111?style=for-the-badge&logo=convex&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---

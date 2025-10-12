@@ -1,7 +1,5 @@
 <!-- README.md -->
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtrY3Z1NWQ2cjlxM3VmMXdsb2tmY3o5Z2QyNnNkb3U5ZGEyb2d0ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif" width="25%" alt="banner"/>
-
 # yo, i'm Abriel!👋  
 
 a self taught fullstack dev(I use arch btw ;-;) who builds random stuff with react, next.js, node, and a bit of ai here and there.  

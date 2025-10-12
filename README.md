@@ -1,53 +1,39 @@
 <!-- README.md -->
 
-<img src="https://i.imgur.com/z8F1C7r.gif" width="100%" alt="banner"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtrY3Z1NWQ2cjlxM3VmMXdsb2tmY3o5Z2QyNnNkb3U5ZGEyb2d0ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif" width="30%" alt="banner"/>
 
-# 👋 Yo, I’m Abriel (aka cremz)
+# yo, i'm Abriel (I use arch btw ;-;)👋  
 
-> “Sleep is for servers, not developers.” — me, after breaking production again 💀  
-
-I’m a **fullstack developer** who loves mixing modern web tech with a bit of chaos.  
-Currently building **AI-integrated projects** because apparently, regular bugs weren’t enough.  
+ a self taught fullstack dev who builds random stuff with react, next.js, node, and a bit of ai here and there.  
+currently cooking ai-integrated projects.
 
 ---
 
-## ⚙️ About Me
-- 💻 Fullstack enjoyer — I touch both frontend *and* backend, fearlessly  
-- 🧠 Currently learning: AI engineering, Supabase magic, and backend optimization  
-- 🪄 Tech stack: React / Next.js / Node.js / Supabase / Tailwind / TypeScript  
-- 💬 Favorite debugging method: talking to my code like it’s a real person  
-- 🍕 Fun fact: 90% of my commits are “fix stuff fr this time”
+### what i'm up to
+- working on: ai + web stuff  
+- learning: backend scaling and ai engineering  
+- tech stack: react, next.js, node.js, supabase, tailwind, typescript  
+- fun fact: my code only works after i threaten to rewrite it from scratch  
 
 ---
 
-## 🧰 Toolbox
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+### tools i use
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/node.js-3c873a?style=for-the-badge&logo=node.js)
+![Supabase](https://img.shields.io/badge/supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=000)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript)
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Framer Motion](https://img.shields.io/badge/framer%20motion-0055FF?style=for-the-badge&logo=framer&logoColor=fff)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge&logo=radix-ui&logoColor=fff)
+![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=fff)
+![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Bun](https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=fff)
 
 ---
-
-## 📊 GitHub Stats
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
-![Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&background=00000000)
-
-</div>
-
----
-
-## 🌍 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
-
----
-
-⚡ *“If it works, don’t touch it.” — also me, right before I touch it anyway.*
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="divider"/>

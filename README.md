@@ -2,8 +2,7 @@
 
 # yo, i'm Abriel!👋  
 
-a self taught fullstack dev(I use arch btw ;-;) who builds random stuff with react, next.js, node, and a bit of ai here and there.  
-currently cooking ai-integrated projects.
+a self taught fullstack dev who builds random stuff with modern techstack  (I use arch btw ;-;)
 
 ---
 

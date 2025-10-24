@@ -15,7 +15,7 @@ Currently working on **AI-integrated projects** — blending creativity with tec
 
 ---
 
-### main tech stack
+### Main tech stack
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Clerk](https://img.shields.io/badge/clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -25,7 +25,7 @@ Currently working on **AI-integrated projects** — blending creativity with tec
 
 ---
 
-### tools i use
+### Tools i use
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react)

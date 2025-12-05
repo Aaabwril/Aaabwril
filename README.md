@@ -23,7 +23,7 @@ Currently working on **AI-integrated projects** — blending creativity with tec
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge&logo=radix-ui&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 
-### Tools i use
+<!-- ### Tools i use
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react)
@@ -49,6 +49,6 @@ Currently working on **AI-integrated projects** — blending creativity with tec
 ![Convex](https://img.shields.io/badge/convex-111111?style=for-the-badge&logo=convex&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+-->
 ---
 > “Code is where logic meets creativity.”
